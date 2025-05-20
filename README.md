@@ -28,6 +28,7 @@ A full-fledged **Django-based web application** designed to manage various opera
 ## 📁 Folder Structure
 
 CollegeManagement-Django/
+|
 │
 ├── collegeapp/ # Core application (models, views, urls)
 ├── templates/ # HTML templates
