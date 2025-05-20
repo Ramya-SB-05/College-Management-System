@@ -25,20 +25,6 @@ A full-fledged **Django-based web application** designed to manage various opera
 
 ---
 
-## 📁 Folder Structure
-
-CollegeManagement-Django/
-|
-│
-├── collegeapp/ # Core application (models, views, urls)
-├── templates/ # HTML templates
-├── static/ # Static files (CSS, JS)
-├── db.sqlite3 # Database
-├── manage.py # Django management script
-└── requirements.txt # Python dependencies (optional)
-
----
-
 ## 🚀 Getting Started
 
 ### Prerequisites
